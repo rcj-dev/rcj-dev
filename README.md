@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil! Aqui você vai encontrar uma mistura de **código, criatividade e diversão**. 🚀
 
-### Sobre mim
+# Sobre mim
 
 - 🎸 **Apaixonado por guitarra** — quando não estou programando, estou tocando um som.
 - 💻 **Desenvolvedor front-end** — especialidade em React, HTML, CSS e Tailwind.
