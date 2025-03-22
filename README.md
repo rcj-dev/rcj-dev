@@ -9,13 +9,13 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar uma mistura de **código, cria
 - 🎮 **Amante de games** — sempre em busca de novos desafios, seja no código ou no controle.
 - 🚀 Sempre curioso, buscando aprender e criar soluções inovadoras.
 
-### O que eu faço?
+# O que eu faço?
 
 - **Programação** — Criando interfaces bonitas e funcionais com as melhores práticas de desenvolvimento.
 - **Música e Jogos** — Minha diversão fora do código, porque todos precisam de um equilíbrio, não é?
 - **Projetos criativos** — Adoro dar um toque de criatividade ao que faço, seja no design ou nas ideias.
 
-### Vamos conectar?
+# Vamos conectar?
 
 - 📧 **Email:** rogerio@example.com
 - 🔗 **LinkedIn:** [Rogério Cardoso Junior](https://www.linkedin.com/in/rogerio-cardoso-junior)
