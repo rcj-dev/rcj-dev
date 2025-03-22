@@ -1,24 +1,24 @@
-# Olá! Eu sou Rogério Cardoso Junior 👋
+# Hello! I'm Rogerio Cardoso Junior 👋
 
-Bem-vindo ao meu perfil! Aqui você vai encontrar uma mistura de **código, criatividade e diversão**. 🚀
+Welcome to my profile! Here you'll find a mix of **code, creativity, and fun**. 🚀
 
-# Sobre mim
+# About me
 
-- 🎸 **Apaixonado por guitarra** — quando não estou programando, estou tocando um som.
-- 🎮 **Amante de games** — sempre em busca de novos desafios, seja no código ou no controle.
-- 🚀 Curioso, buscando aprender e criar soluções inovadoras.
+- 🎸 **Guitar enthusiast** — when I'm not coding, I'm playing some tunes.
+- 🎮 **Gamer** — always looking for new challenges, whether in code or with a controller.
+- 🚀 Curious, always seeking to learn and create innovative solutions.
 
-# O que eu faço?
-- 👨🏻‍🎓 **Formado em Análise e Desenvolvimento de Sistemas** — 100% de bolsa graças ao meu estudo e foco.
-- 👨🏻‍💻 **Programação** — Criando interfaces bonitas e funcionais com as melhores práticas de desenvolvimento.
-- 🎵🎮 **Música e Jogos** — Minha diversão fora do código, porque todos precisam de um equilíbrio, não é?
-- 🎨 **Projetos criativos** — Adoro dar um toque de criatividade ao que faço, seja no design ou nas ideias.
+# What I do?
+- 👨🏻‍🎓 **Bachelor's degree in Systems Analysis and Development** — 100% scholarship thanks to my dedication and focus.
+- 👨🏻‍💻 **Programming** — Creating beautiful and functional interfaces with best development practices.
+- 🎵🎮 **Music and Gaming** — My hobbies outside of coding, because everyone needs a balance, right?
+- 🎨 **Creative Projects** — I love adding a touch of creativity to everything I do, whether in design or ideas.
 
-# Vamos nos conectar?
+# Let's connect?
 
 - 📧 **Email:** [rcjunior018@gmail.com]
 - 🔗 **LinkedIn:** [Rogério Cardoso Junior](https://www.linkedin.com/in/rogerio-cardoso-junior)
 
 ---
 
-Fique à vontade para explorar meus projetos e contribuir com ideias! 🚀
+Feel free to explore my projects and contribute ideas! 🚀
