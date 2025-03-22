@@ -14,11 +14,10 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar uma mistura de **código, cria
 - **Música e Jogos** — Minha diversão fora do código, porque todos precisam de um equilíbrio, não é?
 - **Projetos criativos** — Adoro dar um toque de criatividade ao que faço, seja no design ou nas ideias.
 
-# Vamos conectar?
+# Vamos nos conectar?
 
-- 📧 **Email:** [rcjunior018@gmail.com] (mailto:rcjunior018@gmail.com)
+- 📧 **Email:** [rcjunior018@gmail.com]
 - 🔗 **LinkedIn:** [Rogério Cardoso Junior](https://www.linkedin.com/in/rogerio-cardoso-junior)
-- 💻 **GitHub:** Você está aqui, né? 😄
 
 ---
 
