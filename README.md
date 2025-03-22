@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar uma mistura de **código, cria
 # O que eu faço?
 - 👨🏻‍🎓 **Formado em Análise e Desenvolvimento de Sistemas** — 100% de bolsa graças ao meu estudo e foco.
 - 👨🏻‍💻 **Programação** — Criando interfaces bonitas e funcionais com as melhores práticas de desenvolvimento.
-- 🎵🎮´**Música e Jogos** — Minha diversão fora do código, porque todos precisam de um equilíbrio, não é?
+- 🎵🎮 **Música e Jogos** — Minha diversão fora do código, porque todos precisam de um equilíbrio, não é?
 - 🎨 **Projetos criativos** — Adoro dar um toque de criatividade ao que faço, seja no design ou nas ideias.
 
 # Vamos nos conectar?
